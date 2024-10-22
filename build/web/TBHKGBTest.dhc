@@ -1,0 +1,58 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlCompiler Version="2021.49">
+  <App>
+    <ID>{E98CD5DA-3BEE-4AB2-B48D-8111963B96C5}</ID>
+    <Name>New App 1</Name>
+    <CompanyName></CompanyName>
+    <FileDescription></FileDescription>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InternalName></InternalName>
+    <LegalCopyright></LegalCopyright>
+    <LegalTrademarks></LegalTrademarks>
+    <OriginalFileName></OriginalFileName>
+    <ProgramID></ProgramID>
+    <ProductVersion>1.0.0.0</ProductVersion>
+    <Comments></Comments>
+    <Top>50</Top>
+    <Left>50</Left>
+    <Width>800</Width>
+    <Height>600</Height>
+    <MaxWidth>0</MaxWidth>
+    <MaxHeight>0</MaxHeight>
+    <MinWidth>0</MinWidth>
+    <MinHeight>0</MinHeight>
+    <Theme>Windows</Theme>
+    <WindowStyle>0</WindowStyle>
+    <WindowBorder>2</WindowBorder>
+    <WindowOrder>0</WindowOrder>
+    <WindowState>0</WindowState>
+    <WindowPosition>0</WindowPosition>
+    <InstallFormColor>-16777190</InstallFormColor>
+    <InstallIndicatorColor>1</InstallIndicatorColor>
+    <InstallIndicatorType>0</InstallIndicatorType>
+    <IcoPath></IcoPath>
+    <AllowDebug>0</AllowDebug>
+    <AllowContextMenu>0</AllowContextMenu>
+    <DynamicAppTitle>1</DynamicAppTitle>
+    <Password></Password>
+    <IndexHtml>index.html</IndexHtml>
+    <EdgeInstallerFull>0</EdgeInstallerFull>
+    <EdgeInstallerDown>0</EdgeInstallerDown>
+    <OutputWin32>1</OutputWin32>
+    <OutputWin64>1</OutputWin64>
+    <AllowInstances>0</AllowInstances>
+    <ExcludeMasks></ExcludeMasks>
+    <SigningToolName></SigningToolName>
+    <WebviewJavascript>
+      <![CDATA[]]>
+    </WebviewJavascript>
+    <Generator>
+      <Name>DecSoft HTML Compiler</Name>
+      <Version>2021.49</Version>
+      <Website>https://www.decsoftutils.com/</Website>
+      <Orders>https://www.decsoftutils.com/store/</Orders>
+      <EMail>info@decsoftutils.com</EMail>
+      <Copyright>©2021 DecSoft HTML Compiler. All rights reserved.</Copyright>
+    </Generator>
+  </App>
+</HtmlCompiler>
